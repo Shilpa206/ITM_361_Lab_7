@@ -3,7 +3,10 @@ function init(){
 
   //creating a function
   function alertBox(){
-	  var enter = document.getElementById('entryinput');
+	  
+	  // obtaining input
+	  var input = document.getElementById('entryinput');
+	  alert ("Naga Satya Silpa Annadevara:" + input);
 	  
  
 
