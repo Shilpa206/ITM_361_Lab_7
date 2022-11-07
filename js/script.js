@@ -7,6 +7,9 @@ function init(){
 	  var input = document.getElementById('entryinput');
 	  alert ("Naga Satya Silpa Annadevara:" + input);
 	  
+	  //obtaining output
+	  var output = document.getElementById('textoutput');
+	  
  
 
 
