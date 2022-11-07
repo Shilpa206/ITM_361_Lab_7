@@ -10,8 +10,7 @@ function init(){
 	  //obtaining output
 	  var output = document.getElementById('textoutput');
 	  output.innerHTML = input;
-	  
-  }
+}
   
  
 
