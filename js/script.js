@@ -1,6 +1,5 @@
 function init(){
 
-
   //creating a function
   function alertBox(){
 	  
