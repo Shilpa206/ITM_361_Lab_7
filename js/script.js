@@ -1,5 +1,10 @@
 function init(){
-//add your javascrip between these two lines of code
+
+
+  //creating a function
+  function alertBox(){
+	  var enter = document.getElementById('entryinput');
+	  
  
 
 
